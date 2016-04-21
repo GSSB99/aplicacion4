@@ -7,10 +7,10 @@
 	
 <!-- versionCode is optional and Android only-->
 
-<name>Aplicacion cuatro Datos del Dispositivo</name>
+<name>app4 Datos del Dispositivo</name>
 
 <description>
-Aplicacion que muestra datos sobre el Dispositivo
+muestra datos sobre el Dispositivo
 </description>
 
 <preference name="phonegap-version" value="3.1.0" />
